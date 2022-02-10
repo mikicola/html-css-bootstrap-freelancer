@@ -1,5 +1,5 @@
 body{
-    /* color: white; */
+    color: #2c3e50;
 }
 
 .ms_blue{
@@ -12,6 +12,34 @@ body{
     /* height: 200px; */
 }
 
+.ms_red{
+    background-color: #ba4b63;
+}
+
+.ms_turquoise{
+    background-color: #1ea4b6;
+}
+
+.ms_black{
+    background-color: #140f0f;
+}
+
+.ms_sky-blue{
+    background-color: #1c83c1;
+}
+
+.ms_electric-blue{
+    background-color: #0e38b5;
+}
+
+.ms_beige{
+    background-color: #ccb2a3;
+}
+
+.ms_footer-blue{
+    background-color: #3a546d;
+}
+
 .ms_round{
     height: 170px;
     width: 170px;
@@ -20,7 +48,21 @@ body{
     margin: 0 auto; 
 }
 
+.ms_round-l{
+    height: 200px;
+    width: 200px;
+}
+
 .ms_textwhiteuppercase{
     color: white;
     text-transform: uppercase;
 }
+
+.ms_textuppercase{
+    text-transform: uppercase;
+}
+
+.ms_textwhite{
+    color: white;
+}
+
