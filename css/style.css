@@ -10,6 +10,10 @@ nav{
     height: 100px;
 }
 
+.ms_display-inlineblock{
+    display: inline-block;
+}
+
 .ms_display-block{
     display: block;
 }
