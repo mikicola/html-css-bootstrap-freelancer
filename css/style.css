@@ -73,6 +73,12 @@ nav{
     width: 200px;
 }
 
+.card{
+    height: 300px;
+    width: 100%;
+    /* color: aqua; */
+}
+
 .ms_textwhiteuppercase{
     color: white;
     text-transform: uppercase;
