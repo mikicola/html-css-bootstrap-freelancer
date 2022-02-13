@@ -10,6 +10,16 @@ nav{
     height: 100px;
 }
 
+nav a{
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover{
+    text-decoration: none;
+    color: white;
+}
+
 .ms_nav-link{
         padding: 0.5rem 1rem;
         color: #ffffff;
@@ -169,6 +179,7 @@ nav{
 
 .ms_form::placeholder {
     color: #2c3e50;
+    font-weight: 600;
   }
 
 .ms_btn-personal2 {
@@ -185,3 +196,42 @@ nav{
 }
 
 /*/////////////// FORM //////////////*/
+
+.ms_green-text{
+    color: #1abc9c;
+}
+
+.ms_space-between{
+    justify-content: space-between;
+}
+
+.ms_link-icon{
+    color: white;
+    text-decoration: none;
+}
+
+.ms_link-icon:hover{
+    color: #2c3e50;
+    text-decoration: none;
+    
+}
+
+.ms_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid white;
+    /* overflow: hidden; */
+}
+
+.ms_icon:hover{
+    background-color: white;
+}
+
+
+.ms_fs-08em{
+    font-size: .8em;
+}
